@@ -1,4 +1,4 @@
-# TA-DTI
+# Missing Migrants Identification
 
 Github ini berisikan dokumentasi dari Tugas Akhir Digital Talent Incubator 2020 oleh Kelompok 5 dengan anggota :
 1.	Ni Putu Winda Ardiyanti
@@ -8,3 +8,4 @@ Github ini berisikan dokumentasi dari Tugas Akhir Digital Talent Incubator 2020 
 
 Pada Tugas Akhir ini, kelompok kami membuat Analisa indeks kehilangan/ kematian imigran serta rekomendasi solusi berdasarkan tempat dan penyebab kematiannya
 Data yang digunakan merupakan dataset yang telah di download di [website ini](missingmigrants.iom.int ). Data berisi 7818 data missing migrants dari tahun 2014 hingga tahun 2020. Untuk proses cleaning data dapat dilihat pada file [eda_w_shap_missing_migrants.ipynb](https://github.com/annisasuciati/TA-DTI/blob/main/eda_w_shap_missing_migrants.ipynb)
+Hasil dari project ini dapat dilihat di [sini](https://justedgar.shinyapps.io/CapstoneDV/)
