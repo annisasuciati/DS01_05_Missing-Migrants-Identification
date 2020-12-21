@@ -1,5 +1,9 @@
 # Missing Migrants Identification
 
+![alt text][logo]
+
+[logo]: https://github.com/annisasuciati/DS01_05_Missing-Migrants-Identification/blob/main/WhatsApp%20Image%202020-12-18%20at%2013.35.06.jpeg "Logo Title Text 2"
+
 Github ini berisikan dokumentasi dari Tugas Akhir Digital Talent Incubator 2020 oleh Kelompok 5 dengan anggota :
 1.	Ni Putu Winda Ardiyanti
 2.	Annisa Suciati Salsabila
