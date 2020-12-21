@@ -8,4 +8,4 @@ Github ini berisikan dokumentasi dari Tugas Akhir Digital Talent Incubator 2020 
 5.	Ni Putu Winda Ardiyanti
 
 Pada Tugas Akhir ini, kelompok kami membuat Analisa indeks kehilangan/ kematian imigran serta rekomendasi solusi berdasarkan tempat dan penyebab kematiannya
-Data yang digunakan merupakan dataset yang telah di download di [website ini](missingmigrants.iom.int ). Data berisi 7818 data missing migrants dari tahun 2014 hingga tahun 2020. Untuk proses cleaning data dapat dilihat pada file
+Data yang digunakan merupakan dataset yang telah di download di [website ini](missingmigrants.iom.int ). Data berisi 7818 data missing migrants dari tahun 2014 hingga tahun 2020. Untuk proses cleaning data dapat dilihat pada file [eda_w_shap_missing_migrants.ipynb](https://github.com/annisasuciati/TA-DTI/blob/main/eda_w_shap_missing_migrants.ipynb)
